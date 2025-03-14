@@ -102,3 +102,6 @@
 </p>
 <p>
 <h2>osTicket Lifecycle Completed!</h2>
+<p>**Conclusion:**
+
+In this project, we created and managed tickets in osTicket from both end-user and help desk perspectives. We configured ticket properties, assigned them to appropriate departments, and worked through resolving issues. By switching roles, we learned the importance of tracking all IT tasks and how ticketing systems help with organizing and managing requests. This hands-on experience with osTicket builds the foundation for effectively using ticketing systems in real-world help desk environments. Regular practice and exploration are key to mastering the system.</p>
